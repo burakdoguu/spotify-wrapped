@@ -3,7 +3,7 @@ spotify own wrapped
 
 
 
-You must have a spotify account.
+You must have a spotify account\n
 https://developer.spotify.com/dashboard/login go this link and login
 create a app
 
