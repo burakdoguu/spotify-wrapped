@@ -1,7 +1,7 @@
 from spotify_api_data import SpotifyAPI
 
-spotify_api = SpotifyAPI(client_id="21aa0066b0954641bf8904bbc4538102",
-                         client_secret="2cac8a462ea341d399fb922a1924c282",
+spotify_api = SpotifyAPI(client_id="Your_ID",
+                         client_secret="Your_Secret_Key",
                          redirect_uri="http://mywrapped.com",
                          scope="user-top-read")
 
