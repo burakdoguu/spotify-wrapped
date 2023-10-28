@@ -1,6 +1,6 @@
 from spotify_api_data import SpotifyAPI
 
-spotify_api = SpotifyAPI(client_id="Your_ID",
+spotify_api = SpotifyAPI(client_id="your_id",
                          client_secret="Your_Secret_Key",
                          redirect_uri="http://mywrapped.com",
                          scope="user-top-read")
